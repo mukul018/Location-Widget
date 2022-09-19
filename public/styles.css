@@ -1,0 +1,122 @@
+.heading{
+    padding-top: 13px;
+    padding-left: 6px;
+}
+
+.header{
+    margin-top: 100px;
+    margin-left: 35%;
+    background-color: aquamarine;
+    height: 50px;
+    width: 400px;
+}
+
+.headerV{
+    height: 50px;
+    background-color: aquamarine;
+    transform: rotate(-90deg);
+    margin-left: -50px;
+    margin-top: -290px; 
+}
+
+.icon{
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.icons{
+    cursor: pointer;
+    margin-left: 220px;
+}
+
+.sicon{
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.search{
+    margin-top: 13px;
+    margin-left: 35%;
+}
+
+input[type=text] {
+    width: 320px;
+    padding: 5px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+.check{
+    font-size: 17px;
+    font-weight: 800;
+    padding-top: -8px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.cross{
+    color: rgb(207, 110, 31);
+    padding-top: 0px;
+    cursor: pointer;
+}
+
+.clearAll{
+    font-size: 18px;
+}
+
+.list{
+    max-height: 350px;
+    display: flex;
+    flex-direction: row; 
+}
+
+.cityNames{
+    overflow-y: scroll;
+    margin-left : 35%;
+}
+
+.alphabetList{
+    overflow-y: scroll;
+    margin-left: 0.7%;
+}
+
+.index{
+    flex-direction: column;
+}
+
+.flags{
+    padding-bottom: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
+
+.checked{
+    height: 16px;
+    width: 16px;
+    margin-right: 10px;
+}
+
+.data{
+    font-size: 22px;
+}
+
+.btn{
+    border: none;
+    border-radius: 40%;
+    background-color: inherit;
+    padding: 0px 15px;
+    font-size: 10px;
+    cursor: pointer;
+    display: inline-block;  
+    font-weight: 700;
+}
+
+.btn:hover {
+    background: rgba(31, 30, 28, 0.151);
+}
+
+
