@@ -1,6 +1,7 @@
 # <u>**Location Facet</u>**
 ## <u>**Introduction**</u>
-The widget is made using the ```ReactJS``` framework. This widget allows users to search for locations by entering the city name in the search box, as well as filter the cities according to the alphabetical letter index. Users can also minimize and maximise the window accodringly.
+The widget is made using the ```ReactJS``` framework. This widget allows users to search for locations by entering the city name in the search box, as well as filter the cities according to the alphabetical letter index. Users can also minimize and maximise the window accodringly. This can be used in an application as a control to enable and disable datasets used for generating reports/charts.
+
 
 ## <u>**Getting started**</u> 
 ## **Prerequisites**
